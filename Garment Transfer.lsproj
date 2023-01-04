@@ -3,7 +3,7 @@
     "document_id": "uqCEDv-miiEXzeX-XiYJ",
     "original_document_id": "qj0jldF8kEzl8ubWhn1c",
     "version": "29",
-    "lastChanged": "1672761505629",
+    "lastChanged": "1672847666344",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -76,7 +76,7 @@
                         "Segmentation Texture [EDIT_ME]"
                     ],
                     [
-                        "dancing-man"
+                        "dancing-man-new"
                     ]
                 ]
             ]
@@ -350,7 +350,7 @@
             }
         },
         "Material::UiComponent": {
-            "active_graph_asset": "1610747696110523:313159"
+            "active_graph_asset": "-1:-1"
         },
         "Script::UiComponent": {
             "active_graph_asset": "-1:-1"
@@ -635,9 +635,9 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "201",
-                    "uid": "1672760894962021:7232",
-                    "name": "Files\/File95",
+                    "resId": "202",
+                    "uid": "1672847435891088:7508",
+                    "name": "Files\/File98",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -1027,16 +1027,16 @@
                     "v": "Files\/File92.js"
                 },
                 {
-                    "k": "95",
-                    "v": "Files\/File95"
+                    "k": "98",
+                    "v": "Files\/File98"
                 },
                 {
-                    "k": "96",
-                    "v": "Files\/File96.gif"
+                    "k": "99",
+                    "v": "Files\/File99.gif"
                 },
                 {
-                    "k": "97",
-                    "v": "Files\/File97"
+                    "k": "100",
+                    "v": "Files\/File100"
                 }
             ]
         },
@@ -1104,8 +1104,8 @@
                         "v": "Scripts\/LensController.js"
                     },
                     {
-                        "k": "29499",
-                        "v": "dancing-man.gif"
+                        "k": "29500",
+                        "v": "dancing-man-new.gif"
                     }
                 ],
                 "hashes": [
@@ -1236,20 +1236,24 @@
                     {
                         "k": "29499",
                         "v": "1a0b1ddac2eba27c1ff42f6215148faf"
+                    },
+                    {
+                        "k": "29500",
+                        "v": "c163d02026aac0b69798d4835994e984"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2023-01-03T21:19:48",
+                        "lastModified": "2023-01-04T21:24:16",
                         "name": "Public",
-                        "hash": "97be6907a02a4985477cb53fc2665fac",
+                        "hash": "4f7937c50b1e4e171f68d786b5ee7244",
                         "children": [
                             {
                                 "isFolder": "false",
-                                "lastModified": "2023-01-03T21:17:21",
-                                "name": "dancing-man.gif",
-                                "hash": "1a0b1ddac2eba27c1ff42f6215148faf",
+                                "lastModified": "2023-01-04T21:13:29",
+                                "name": "dancing-man-new.gif",
+                                "hash": "c163d02026aac0b69798d4835994e984",
                                 "children": ""
                             },
                             {
@@ -1979,28 +1983,24 @@
                         ]
                     },
                     {
-                        "name": "dancing-man",
+                        "name": "dancing-man-new",
                         "type": "1",
                         "subtype": "5",
-                        "resourceId": "201",
+                        "resourceId": "202",
                         "dependency": "0",
                         "hidden": "false",
-                        "uid": "1672760894962021:7232",
-                        "fileId": "95",
-                        "originalId": "96",
-                        "publicId": "29499",
-                        "source": "C:\/Users\/Dhaval\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioRLyGxYHwpKUu\/animation.t3d",
+                        "uid": "1672847435891088:7508",
+                        "fileId": "98",
+                        "originalId": "99",
+                        "publicId": "29500",
+                        "source": "C:\/Users\/Dhaval\/AppData\/Local\/Snap\/Lens Studio\/cache\/temp\/StudioxvXzcfBwqMZY\/animation.t3d",
                         "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1671965648349604:745179"
-                ]
-            }
+            "selection": ""
         },
         "EffectsController": {
             "1": "",
@@ -2143,13 +2143,13 @@
                     }
                 },
                 {
-                    "k": "1672760894962021:7232",
+                    "k": "1672847435891088:7508",
                     "v": {
                         "infos": {
-                            "originalSize": "556792",
-                            "compressedSize": "556792",
-                            "originalRAM": "13735680",
-                            "compressedRAM": "13735680",
+                            "originalSize": "1466267",
+                            "compressedSize": "1466267",
+                            "originalRAM": "13189120",
+                            "compressedRAM": "13189120",
                             "extension": "t3d",
                             "settings": {
                                 "isCompressed": "false",
@@ -2158,7 +2158,7 @@
                                 "subtype": "5"
                             }
                         },
-                        "uncompressed_file": "97",
+                        "uncompressed_file": "100",
                         "compressed_files": ""
                     }
                 }
